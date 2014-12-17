@@ -1,1 +1,2 @@
 - Notify campus security and front desk to direct people
+- Ask speakers what they need for their talks
