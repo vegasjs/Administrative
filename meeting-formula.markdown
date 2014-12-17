@@ -8,7 +8,7 @@ This is a list of ideas to help bring VegasJS to the next level.
 
 - Transitions should be tighter and smoother so there aren't awkward bits in between.
 
-- Each meeting will have a little time for open mic / lighting talks. Members may choose to go up and do show and tell, ask the audience a question about something they're having trouble with, or do a lightning talk.
+- Each meeting will have a little time for open mic / lighting talks / show and tell / announcements. Members may choose to go up and do show and tell, ask the audience a question about something they're having trouble with, or do a lightning talk. We will time these and limit them to 5 minutes.
 
 - We will acquire a book or something similar from time to time and raffle it off.
 
