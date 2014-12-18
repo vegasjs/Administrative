@@ -19,3 +19,5 @@ This is a list of ideas to help bring VegasJS to the next level.
 - Always post agenda at least a week in advance
 
 - Create a promotional poster for each meeting with speakers and topics
+
+- Send a wedgies poll with each announcements to slowly improve the group (for example: do you want pizza)
