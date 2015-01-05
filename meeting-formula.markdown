@@ -21,3 +21,5 @@ This is a list of ideas to help bring VegasJS to the next level.
 - Create a promotional poster for each meeting with speakers and topics
 
 - Send a wedgies poll with each announcements to slowly improve the group (for example: do you want pizza)
+
+- Always define unfamiliar vocabulary and technologies. Some people don't know what 'node' or 'promises' are. Let's always define them before talks, or call on the speaker to do in the middle if the speaker didn't introduce it properly due to tech bias.
