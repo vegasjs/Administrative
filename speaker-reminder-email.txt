@@ -1,0 +1,34 @@
+Hi VegasJS Speakers!
+
+Thank you for agreeing to give a talk to VegasJS on {{date}}.
+
+Just to remind you, the talks for this meeting are as follows:
+
+- {{title}} ({{speaker}}) 10 min.
+- {{title}} ({{speaker}}) 20-35 min.
+- {{title}} ({{speaker}}) 20-35 min.
+
+From each of you I'll need the following pieces of info by the end of the week:
+
+- A headshot of your choosing (if you do not provide one, I may draw one of you)
+- The final title for your talk
+- 5-10 hashtags describing your talk
+- The difficulty level of your talk
+- How long you think you will go for
+- Any special requirements for your talk
+
+For ideas of how this information will be presented or what your hashtags should look like, check out the posters:
+
+https://github.com/vegasjs/Administrative/tree/master/posters
+
+This information will go on the event poster and will be shared with our meetup group.
+
+Speaker tips:
+
+- If you introduce a term or concept that might not be familiar to entry level JavaScript developers, please take some time to define it as part of your talk. If you'd like I can also give a beginner friendly explanation prior to your talk if you wish. Let me know!
+
+- The resolution of your presentation on a projector will be lower than your computer screen, this may cause realignment of elements in the slide deck. The colors will also be more washed out.
+
+- If you live code anything, prepare your computer to use a BIG EASY TO READ FONT
+
+Let me know if you have any other questions. Thanks - I’m looking forward to your talks!
